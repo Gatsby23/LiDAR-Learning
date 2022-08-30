@@ -1,2 +1,0 @@
-A-LOAM:LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs
--DCATKIN_DEVEL_PREFIX=/home/xiaoc/xiaoc/work/XAG/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xiaoc/xiaoc/work/XAG/catkin_ws/install -G Unix Makefiles
